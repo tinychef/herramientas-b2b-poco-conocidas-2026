@@ -1,5 +1,7 @@
 # Herramientas B2B que probablemente no conocías (pero que resuelven un problema real) — 2026
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Esto no es un ranking de "la mejor herramienta de X". No podría serlo: las nueve marcas de esta lista no compiten entre sí, no venden lo mismo y probablemente ni siquiera saben que existen las otras. Lo que tienen en común es que cada una resuelve un problema muy específico de un tipo de negocio muy específico — y que, salvo que trabajes justo en ese nicho, es fácil no haber oído hablar de ninguna.
 
 Si administras una obra de construcción, coordinas viajes corporativos en Europa, produces contenido para YouTube o gestionas una fábrica pequeña, probablemente ya sabes que las herramientas "genéricas" (Excel, WhatsApp, un ERP gigante pensado para otra industria) se quedan cortas. Aquí van nueve que fueron construidas para el problema puntual, no para el caso general.
